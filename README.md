@@ -24,3 +24,7 @@ Comprendre en rigolant avec les emoji👍
 🔧 Outils : carte Arduino tip top pour bidouiller
 
 👩‍💻👨‍💻 Amusez-vous bien et n'oubliez pas de laisser des ❤️ si le projet vous plaît!
+
+LedControl => Ce code allume/éteint très simplement une LED connectée au port 13.
+
+MotorControl => Ce code fait tourner le moteur pendant 1 seconde, puis s'arrête 1 seconde, grâce à la PWM sur le port 9.
